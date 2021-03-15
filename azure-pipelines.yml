@@ -14,7 +14,7 @@ steps:
 - task: AzureResourceManagerTemplateDeployment@3
   inputs:
     deploymentScope: 'Resource Group'
-    azureResourceManagerConnection: 'itops'
+ #   azureResourceManagerConnection: 'itops'
     subscriptionId: '2384acdd-783b-443a-ab1b-3fb9ae162ce1'
     action: 'Create Or Update Resource Group'
     resourceGroupName: 'itops-rg'
