@@ -15,7 +15,7 @@
       "value": "Standard_D2_v2"
     },
     "adminPasswordOrKey": {
-      "value": "GEN-SSH-PUB-KEY"
+      "value": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDOAsvs5VEZLdSF/fQ5QzPFABSJH0LtzQbOKJ077tfr6d0C5QWH5sUF+IYh6hascbxR9/eGaVEB9rY7yxtX44ckS681upJLgQG9qkY9LUbaPyHOWa6woA9Qebw4IPBKmKVVre8+ppfN+qZUNL6ZQPoICzaCx5kG8N7xpMCQlsMUgtjERjkiEv/icAG+TkP9iSSi4iwM6vw29H3DpiBVmOd26GD2HjFL5JchfuZk12KEhO4RJUwb679idmjDwZy+UlawtkmU4l8xqVHZh6I/jGEjIM4GtBY+V3gC1/Px0nIU2L/1nNJbeKkEy9Vouu38DroY8slMRA1SThdILO3sLkg9 milan@Milans-MacBook-Pro.local"
     }
   }
 }
