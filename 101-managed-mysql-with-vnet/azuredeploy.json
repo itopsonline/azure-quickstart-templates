@@ -143,6 +143,11 @@
             "Name": "rule3",
             "StartIpAddress": "51.144.21.224",
             "EndIpAddress": "51.144.21.224"
+          },
+          {
+            "Name": "rule4temp",
+            "StartIpAddress": "0.0.0.0",
+            "EndIpAddress": "255.255.255.255"
           }
         ]
       }
