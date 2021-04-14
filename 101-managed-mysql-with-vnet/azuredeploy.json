@@ -146,8 +146,8 @@
           },
           {
             "Name": "rule4temp",
-            "StartIpAddress": "0.0.0.0",
-            "EndIpAddress": "255.255.255.255"
+            "StartIpAddress": "20.86.112.145",
+            "EndIpAddress": "20.86.112.145"
           }
         ]
       }
